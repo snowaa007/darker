@@ -71,3 +71,16 @@ python src/main.py  --dataset dataset_name --epochs 200 --batch_size 32
 DARKER improves the efficiency of transformer for time series.
 Readers who are interested in time series transformer may refer to our previous work SVP-T (https://github.com/rdzuo/svp-transformer).
 
+```
+@article{zuo2024darker,
+  title={DARKER: Efficient Transformer with Data-Driven Attention Mechanism for Time Series},
+  author={Zuo, Rundong and Li, Guozhong and Cao, Rui and Choi, Byron and Xu, Jianliang and Bhowmick, Sourav S},
+  journal={Proceedings of the VLDB Endowment},
+  volume={17},
+  number={11},
+  pages={3229--3242},
+  year={2024},
+  publisher={VLDB Endowment}
+}
+```
+
